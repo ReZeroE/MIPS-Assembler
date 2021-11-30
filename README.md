@@ -1,4 +1,4 @@
-# MIPS-Assembler (CS 3114)
+# MIPS-Assembler (CS 2506)
 This program is an assembler implemented in C that supports a subset of instructions in the MIPS32 assembly language.
 
 ## Supported Instructions
