@@ -68,3 +68,6 @@ Invalid writes: 0
 Uses of uninitialized values: 0
 ============================================================
 ```
+
+## Code Access Request
+Due to Honor Code issues, this program is not publicly visible as of right now. If you would like to access the code for non-academic purposes (recruitment or related), please contact me at kevinliu@vt.edu. 
