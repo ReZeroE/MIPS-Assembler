@@ -44,14 +44,14 @@ Grading:  kevinliu.tar
 Time:     Mon Nov 29 22:22:28 EST 2021
 Option:   -final
 
-============================================================
+================================================================================
 Valgrind issues:
 ==752470==     in use at exit: 0 bytes in 0 blocks
-==752470==   total heap usage: 258 allocs, 258 frees, 27,345 bytes allocated
+==752470==     total heap usage: 258 allocs, 258 frees, 27,345 bytes allocated
 Invalid reads: 0
 Invalid writes: 0
 Uses of uninitialized values: 0
-============================================================
+================================================================================
 ```
 
 ## Code Access Request
