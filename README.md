@@ -1,5 +1,5 @@
 # MIPS-Assembler (CS 2506)
-This program is an assembler implemented in C that supports a subset of instructions in the MIPS32 assembly language.
+This program is an assembler implemented in C that supports a subset of instructions in the MIPS32 assembly language. The program handles both `.data` and `.text` sections and translates them into raw machine code (binary format).
 
 ## Supported Instructions
 The program supports a subset of the instructions from the MIPS32 assembly language. (28 instructions)
