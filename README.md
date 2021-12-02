@@ -37,8 +37,6 @@ lw      rt, label
 
 ## Valgrind Report & Testing
 This program is fully tested through both manual testing and Valgrind. The program handles all corner cases and memory allocation/deallocation flawlessly.
-
-Please note that the program has certain preset limits and is not garenteed to function correctly beyound those limits (specified below).
 ```
 Grading:  kevinliu.tar
 Time:     Mon Nov 29 22:22:28 EST 2021
@@ -53,6 +51,7 @@ Invalid writes: 0
 Uses of uninitialized values: 0
 ================================================================================
 ```
+Please note that the program has certain preset limits and is not garenteed to function correctly beyound those limits (specified below).
 
 ## Code Access Request
 Due to Honor Code issues, this program is not publicly visible as of right now. If you would like to access the code for non-academic purposes (recruitment or related), please contact me at kevinliu@vt.edu. 
