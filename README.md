@@ -1,6 +1,8 @@
 # MIPS-Assembler (CS 2506)
 This program is an assembler implemented in C that supports a subset of instructions in the MIPS32 assembly language. The program handles both `.data` and `.text` sections and translates them into raw machine code (binary format).
 
+Please read [Code Access Request](## Code Access Request) for the source code of the program.
+
 ## Supported Instructions
 The program supports a subset of the instructions from the MIPS32 assembly language. (28 instructions)
 ```
@@ -192,4 +194,4 @@ Uses of uninitialized values: 0
 Please note that the program has certain preset limits and is not garenteed to function correctly beyound those limits (specified below).
 
 ## Code Access Request
-Due to Honor Code issues, this program is not publicly visible as of right now. If you would like to access the code for non-academic purposes (recruitment or related), please contact me at kevinliu@vt.edu. 
+Due to Honor Code concerns, this program is not publicly visible as of right now. If you would like to access the code for recruitment purposes, please contact me at kevinliu@vt.edu. 
